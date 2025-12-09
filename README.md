@@ -9,8 +9,9 @@
 This project addresses the challenging task of **Image Classification** on the **CIFAR-100 dataset (Coarse Labels)**, which involves discriminating between 20 distinct object categories. The core contribution is the implementation of a **Hybrid Feature Extraction (HFE)** framework designed to enhance model robustness and performance by fusing complementary information derived from two distinct paradigms: **traditional computer vision** and **deep convolutional networks**.
 
 The HFE method effectively captures:
-1.  **Local and Global Spatial Information** (manual features).
-2.  **High-level Semantic Content** (deep embeddings).
+
+1. **Local and Global Spatial Information** (via manual features).
+2. **High-level Semantic Content** (via deep embeddings).
 
 This synergistic approach, followed by **Principal Component Analysis (PCA)** for optimal dimensionality reduction, demonstrates a measurable performance gain compared to using either feature set in isolation, ultimately validating the strategic combination of domain-specific expertise and generalized deep representations.
 
