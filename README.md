@@ -146,7 +146,7 @@ The project is structured to separate research and deployment components, with a
 
 🚀 Getting Started Follow these steps to set up and run the Streamlit application locally. 1. Clone the Repository Use the following command to clone the project repository:
 ```bash
-git clone [https://github.com/colinwilson06/Hybrid-CIFAR100-Classifier.git](https://github.com/colinwilson06/Hybrid-CIFAR100-Classifier.git)
+git clone https://github.com/colinwilson06/Hybrid-CIFAR100-Classifier.git
 cd Hybrid-CIFAR100-Classifier
 ```
 
